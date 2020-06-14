@@ -1,0 +1,11 @@
+ll-Stack Web Dev Crash Course: Coding a SaaS App in JavaScript https://www.youtube.com/watch?v=smnFU2pEHH0
+
+How to work with Git & Github using Eclipse | Commit | Push | Branching | Pull Request | Merging https://www.youtube.com/watch?v=HCeBd5GKNO8
+
+Git Tutorial for Beginners https://www.youtube.com/watch?v=WbwIoQYP6no
+
+Linux Tutorial for Beginners: Introduction to Linux Operating System https://www.youtube.com/watch?v=V1y-mbWM3B8
+
+Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins Tutorial | Simplilearn https://www.youtube.com/watch?v=FX322RVNGj4
+
+fe
